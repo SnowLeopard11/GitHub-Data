@@ -2,8 +2,6 @@
 
 一个基于Vue框架的可视化Github大数据平台
 
-## Link
-- 预览请看：[github-data](https://snowleopard11.github.io/GitHub-Data/)
 
 ## Tree
 ```
